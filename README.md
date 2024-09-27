@@ -1,6 +1,8 @@
 
 ### Skills
 
+**AWS Solution Architect - Associate**  
+
 ![AWS Certified Solutions Architect - Associate](aws-certified-solutions-architect-associate.png)
 
 **Frontend**  
