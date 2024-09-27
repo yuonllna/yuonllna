@@ -1,7 +1,7 @@
 
 ### Skills
 
-![AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/2bfe6dc6-21da-43a7-aef3-524eda43e983/public_url)  
+![AWS Certified Solutions Architect - Associate](![AWS Certified Solutions Architect - Associate](https://github.com/younllna/repository/younllna/aws-certified-solutions-architect-associate.png))  
 
 **Frontend**  
 <div> 
