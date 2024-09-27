@@ -1,7 +1,7 @@
 
 ### Skills
 
-![AWS Certified Solutions Architect - Associate](![AWS Certified Solutions Architect - Associate](https://github.com/yuonllna/repository/yuonllna/aws-certified-solutions-architect-associate.png))  
+(![AWS Certified Solutions Architect - Associate](https://github.com/yuonllna/repository/yuonllna/aws-certified-solutions-architect-associate.png))  
 
 **Frontend**  
 <div> 
