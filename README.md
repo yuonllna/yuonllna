@@ -19,13 +19,12 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> 
 </div>
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yuonllna&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/yuonllna"
-    width="600"
-    height="120"
-  />
+<br>
+<br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yuonllna&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yuonllna"
+  width="600"
+  height="300"
+/>
 </a>
-
