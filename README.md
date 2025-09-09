@@ -14,6 +14,8 @@
          height="180">
   </a>
 </div>
+<br>
+<br>
 
 <!-- gitanimals : 동일하게 왼쪽 정렬 -->
 <div style="display:flex; justify-content:flex-start;">
