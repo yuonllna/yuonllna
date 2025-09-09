@@ -5,13 +5,13 @@
   <!-- AWS -->
   <img src="aws-certified-solutions-architect-associate.png"
        alt="AWS Certified Solutions Architect - Associate"
-       height="180">
+       height="150">
 
   <!-- solved.ac -->
   <a href="https://solved.ac/yeomung">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=yeomung"
          alt="Solved.ac profile badge"
-         height="180">
+         height="150">
   </a>
 </div>
 <br>
