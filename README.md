@@ -21,7 +21,7 @@
   <img
     src="https://render.gitanimals.org/farms/yuonllna"
     alt="gitanimals farm"
-    width="500"
-    height="200"
+    width="550"
+    height="250"
   />
 </a>
