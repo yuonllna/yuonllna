@@ -1,12 +1,11 @@
 <h3>Skills</h3>
 
-<div style="display:flex; gap:40px; align-items:center; justify-content:center; margin-bottom:30px;">
+<div style="display:flex; gap:100px; align-items:center; justify-content:center; margin-bottom:30px;">
   <!-- AWS -->
   <img src="aws-certified-solutions-architect-associate.png"
        alt="AWS Certified Solutions Architect - Associate"
        height="180">
-  <br>
-  <br>
+  
   <!-- solved.ac -->
   <a href="https://solved.ac/yeomung">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=yeomung"
