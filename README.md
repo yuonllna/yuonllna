@@ -1,7 +1,7 @@
 <h3>Skills</h3>
 
 <!-- AWS + solved.ac : 왼쪽 정렬 -->
-<div style="display:flex; gap:40px; align-items:center; justify-content:center; margin-bottom:30px;">
+<div style="display:flex; gap:40px; align-items:center; justify-content:flex-start; margin-bottom:30px;">
   <!-- AWS -->
   <img src="aws-certified-solutions-architect-associate.png"
        alt="AWS Certified Solutions Architect - Associate"
