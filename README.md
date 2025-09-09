@@ -1,6 +1,6 @@
 <h3>Skills</h3>
 
-<div style="display:flex; gap:100px; align-items:center; justify-content:center; margin-bottom:30px;">
+<div style="display:flex; gap:400px; align-items:center; justify-content:center; margin-bottom:30px;">
   <!-- AWS -->
   <img src="aws-certified-solutions-architect-associate.png"
        alt="AWS Certified Solutions Architect - Associate"
@@ -14,12 +14,14 @@
   </a>
 </div>
 
+<br>
+<br>
 <!-- gitanimals는 아래에 그대로 -->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yuonllna&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/yuonllna"
     alt="gitanimals farm"
-    width="600"
-    height="300"
+    width="500"
+    height="200"
   />
 </a>
