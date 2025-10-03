@@ -19,12 +19,12 @@
 
 <!-- gitanimals : 동일하게 왼쪽 정렬 -->
 <div style="display:flex; justify-content:flex-start;">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yuonllna&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/yuonllna?pet-id=717206812575003065"
-      width="600"
-      height="200"
-    />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yuonllna&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/yuonllna"
+    width="600"
+    height="300"
+  />
   </a>
   
 </div>
