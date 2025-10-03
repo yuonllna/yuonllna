@@ -21,15 +21,7 @@
 <div style="display:flex; justify-content:flex-start;">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yuonllna&utm_content=line">
     <img
-      src="https://render.gitanimals.org/lines/yuonllna?pet-id=752071681733670065"
-      width="600"
-      height="120"
-    />
-  </a>
-  
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yuonllna&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/yuonllna?pet-id=668246947455165700"
+      src="https://render.gitanimals.org/lines/yuonllna?pet-id=717206812575003065"
       width="600"
       height="120"
     />
