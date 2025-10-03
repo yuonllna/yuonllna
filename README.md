@@ -23,7 +23,7 @@
     <img
       src="https://render.gitanimals.org/lines/yuonllna?pet-id=717206812575003065"
       width="600"
-      height="120"
+      height="150"
     />
   </a>
   
